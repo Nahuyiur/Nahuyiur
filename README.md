@@ -20,13 +20,9 @@
 <!-------------------------->
 
 <p align="center">
-    <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
-    <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+  <!-- GitHub Stats Card -->
+  <img width="600"
+       src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide=contribs&&hide_title=true" />
 </p>
 
 
@@ -40,7 +36,7 @@
 <!-- --------------------------------------------------- -->
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,latex,opencv,huggingface,pytorch,linux&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
 <!------------------------>
@@ -67,5 +63,5 @@
 <!------------------------->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THANKS%20FOR%20ATTENTION&fontSize=55&fontAlign=50&fontAlignY=70&desc=Never%20stop%20exploring!&descAlign=50&descSize=50&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 </p>

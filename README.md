@@ -44,15 +44,18 @@
     <!-- https://github.com/LelouchFR/skill-icons -->
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
+
+
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://gitee.com/Xiaokang2022"><img src="https://img.shields.io/badge/Gitee-Xiaokang2022-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
-    <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
+    <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Nahuyiur-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://space.bilibili.com/347103602"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-    <a href="https://github.com/Xiaokang2022"><img src="https://komarev.com/ghpvc/?username=Xiaokang2022&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+    <a href="https://github.com/Nahuyiur"><img src="https://komarev.com/ghpvc/?username=Nahuyiur&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
+
+
+<!------------------------->
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>

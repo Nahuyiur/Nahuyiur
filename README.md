@@ -13,7 +13,7 @@
   <img width="500"
        src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&theme=transparent&show_icons=true&hide_border=false&show=reviews&hide=contribs" />
   <img width="330"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&theme=transparent&hide_border=false&layout=compact&langs_count=8&height=200" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&theme=transparent&hide_border=false&layout=compact&langs_count=8&height=200&hide=Jupyter%20Notebook" />
 </p>
 
 <!------------------------>

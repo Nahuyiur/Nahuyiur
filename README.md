@@ -29,15 +29,13 @@
     <img width="400" src="https://github-readme-streak-stats-xiaokang2022.vercel.app?user=Xiaokang2022&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
+
+<!------------------------>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahuyiur&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
-<p align="center">
-    <!-- https://github.com/ryo-ma/github-profile-trophy -->
-    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
-</p>
+
 
 <!-- --------------------------------------------------- -->
 <p align="center">
@@ -45,7 +43,7 @@
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,cpp,java,c,cs,go,rust,js,ts,css,html,md,latex,regex,mermaid&titles=true" alt="Skill Icons" title="Skill Icons">
 </p>
 
-
+<!------------------------>
 <p align="center">
     <!-- GitHub -->
     <a href="https://github.com/Nahuyiur">

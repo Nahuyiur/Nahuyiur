@@ -49,7 +49,7 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Nahuyiur-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://space.bilibili.com/347103602"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
+    <a href="https://space.bilibili.com/347103602"><img src="https://img.shields.io/badge/%E5%85%AB%E4%B8%80%E5%B9%B4%E7%9A%84%E9%9B%AA%E7%A2%A7-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Nahuyiur"><img src="https://komarev.com/ghpvc/?username=Nahuyiur&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>

@@ -1,21 +1,11 @@
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Nahuyiur&descAlign=50&descSize=45&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-
+<!---------------------->
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
     <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;%F0%9F%9A%80+Keep+Building%2C+Keep+Learning%2C+Keep+Thinking" alt="Hello World" title="Hello World"/>
 </p>
-
-<!----------------------------------->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake.svg">
-</picture>
-
-
 
 <!-------------------------->
 
@@ -32,6 +22,18 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahuyiur&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
+<!----------------------------------->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation"
+         src="https://raw.githubusercontent.com/Nahuyiur/Nahuyiur/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!-- --------------------------------------------------- -->
 <p align="center">

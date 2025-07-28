@@ -1,17 +1,17 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Nahuyiur&descAlign=50&descSize=45&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=HI%20THERE&fontSize=100&fontAlign=50&fontAlignY=30&desc=I%20am%20Nahuyiur&descAlign=50&descSize=50&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
 <!---------------------->
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;%F0%9F%9A%80+Keep+Building%2C+Keep+Learning%2C+Keep+Thinking" alt="Hello World" title="Hello World"/>
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=34&pause=400&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+GitHub+profile+page!;%F0%9F%9A%80+Keep+Building%2C+Keep+Learning%2C+Keep+Thinking" alt="Hello World" title="Hello World"/>
 </p>
 
 <!-------------------------->
 
 <p align="center">
   <!-- GitHub Stats Card -->
-  <img width="600"
+  <img width="850"
        src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide=contribs&&hide_title=true" />
 </p>
 
@@ -19,7 +19,7 @@
 <!------------------------>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahuyiur&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=Nahuyiur&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 
 <!----------------------------------->

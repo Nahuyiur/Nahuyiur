@@ -13,6 +13,7 @@
   <img width="415"
        src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&theme=transparent&show_icons=true&hide_border=false&show=reviews&hide=contribs" 
        style="flex-shrink: 1; max-width: 100%; height: auto;"/>
+    
   <img width="275"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&theme=transparent&hide_border=false&layout=compact&langs_count=8&height=200&hide=Jupyter%20Notebook,VHDL,PLpgSQL," 
        style="flex-shrink: 1; max-width: 100%; height: auto;"/>

@@ -9,16 +9,14 @@
 
 <!-------------------------->
 
-<p align="center" style="display: flex; justify-content: space-between; gap: 5px; width: 100%;">
-  <img width="415"
-       src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&theme=transparent&show_icons=true&hide_border=false&show=reviews&hide=contribs" 
-       style="flex-shrink: 1; max-width: 100%; height: auto;"/>
-    
-  <img width="275"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&theme=transparent&hide_border=false&layout=compact&langs_count=8&height=200&hide=Jupyter%20Notebook,VHDL,PLpgSQL," 
-       style="flex-shrink: 1; max-width: 100%; height: auto;"/>
-</p>
 
+<div align="center"> 
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a&theme=graywhite" /> 
+</div>
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a&theme=graywhite" /> 
+</div>
 
 
 
@@ -49,6 +47,7 @@
 <!------------------------>
 
 
+<!---缺失了部分功能>
 
 
 <!------------------------>

@@ -9,16 +9,7 @@
 
 <!-------------------------->
 
-
-<div align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Nahuyiur&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a&theme=graywhite" /> 
-</div>
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahuyiur&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a&theme=graywhite" /> 
-</div>
-
-
+<!---缺失了部分功能>
 
 <!------------------------>
 <p align="center">
@@ -47,7 +38,7 @@
 <!------------------------>
 
 
-<!---缺失了部分功能>
+
 
 
 <!------------------------>
